@@ -1,0 +1,13 @@
+
+1.1 网络
+
+  1. 网络(network)由若干个结点(node)和连接这些结点的链路(link)组成
+     互联网(internet)由若干个网络通过路由器(router)互连
+     连接在因特网上的计算机称为主机(host)
+     
+  2. 发展阶段
+    (1). 单个网络
+    (2). 三级结构的Internet，即主干网、地区网和校园网或企业网
+    (3). 多层次ISP(Internet Service Provider)结构的Internet，管理并分配IP地址
+
+

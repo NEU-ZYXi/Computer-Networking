@@ -1,0 +1,14 @@
+
+1.3 计算机网络的类别
+
+  1. 不同作用范围
+    (1). 广域网(wide area network,WAN)：长距离传输数据
+    (2). 城域网(metropolitan area network,MAN)：采用以太网技术，将多个局域网进行互连
+    (3). 局域网(local area network,LAN)：小范围传输数据
+    (4). 个人区域网(personal area network,PAN)
+    
+  2. 不同使用者
+    (1). 公用网(public network)
+    (2). 专用网(private network) 
+    
+    
